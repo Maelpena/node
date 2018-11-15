@@ -1,0 +1,21 @@
+{
+  "name": "leagueoflegends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projet.js",
+  "scripts": {
+    "start": "node projet.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "commander": "^2.19.0"
+  },
+  "bin": {
+    "lol": "./projet.js"
+  },
+  "devDependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
